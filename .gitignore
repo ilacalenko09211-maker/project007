@@ -1,6 +1,7 @@
 # Игнорирование служебных файлов ОС
 .DS_Store
-Thumbs.d
+Thumbs.db
+my mam sluha
 # Игнорирование логов и зависимостей
 npm-debug.log*
 node_modules/
